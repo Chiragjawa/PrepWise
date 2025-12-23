@@ -29,7 +29,7 @@ function Header() {
             cursor-pointer
             // ${path=='/dashboard/questions'&&'text-primary font-bold'}
             // `}>Resume Checker</li> */}
-              <Link href={""}>
+              <Link href={"https://resume-checker-psi-roan.vercel.app/"}>
             <li className={`hover:text-primary hover:font-bold transition-all
             cursor-pointer
             `}>Resume-Checker</li>
